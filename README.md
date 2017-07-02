@@ -1,2 +1,2 @@
-#TWITCHGO
-##twitch website go
+TWITCHGO
+twitch website go
