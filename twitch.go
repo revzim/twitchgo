@@ -23,7 +23,7 @@ Regexep.MustCompile is distinct form Compile in that it will panic if the exp co
 */
 var validPath = regexp.MustCompile("^/(twitch|search|youtube)/([a-zA-Z0-9]+)") ///([a-zA-Z0-9]+)$
 
-var CLIENT_ID = "30sdbvlwjil0intrcvejx8nzuxs7ykn"
+var CLIENT_ID = ""
 
 type Twitch struct {
 	Stream
